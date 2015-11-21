@@ -1,0 +1,200 @@
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+c:\users\johnny\documents\visual studio 2015\Projects\JohnnyCutchinsDVDSolution\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\JohnnyCutchinsDVD_V3\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V4\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V5\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V6\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V7\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V8_Validation\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V9\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD_V10\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\csc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\vbc.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll.config
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\JohnnyCutchinsDVD.pdb
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.dll
+C:\Users\Johnny\Desktop\PROG 117\Projects\DVD project\JohnnyCutchinsDVD\JohnnyCutchinsDVD\obj\Debug\JohnnyCutchinsDVD.pdb
